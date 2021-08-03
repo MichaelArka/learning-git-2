@@ -1,0 +1,13 @@
+.container {
+    text-align: left;
+    padding: 15px 600px 15px 600px;
+}
+.container > h1 {
+    font-size: 85px;
+}
+.container > h2 {
+    font-size: 30px;
+}
+.container > p {
+    font-size: 24px;
+}
