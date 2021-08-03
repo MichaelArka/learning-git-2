@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Michalandronik/naukagita#readme",
   "devDependencies": {
     "browser-sync": "^2.27.5"
+  },
+  "dependencies": {
+    "html-validate": "^5.2.0"
   }
 }
