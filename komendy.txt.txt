@@ -1,10 +1,1 @@
-{
-  "extends": [
-    "html-validate index.html"
-  ],
-
-  "rules": {
-    "close-order": "error",
-    "void": ["warn", {"style": "omit"}]
-  }
-}
+html-validate index.html
